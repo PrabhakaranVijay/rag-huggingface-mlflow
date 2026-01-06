@@ -22,7 +22,7 @@
 
   <img alt="License" src="https://img.shields.io/github/license/PrabhakaranVijay/rag-huggingface-mlflow?color=7F00FF">
 
-  <img alt="Github issues" src="https://img.shields.io/github/issues/PrabhakaranVijay/rag-huggingface-mlflow?color=7F00FF" />
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/PrabhakaranVijay/rag-huggingface-mlflow?color=7F00FF" /> -->
 
   <img alt="Github forks" src="https://img.shields.io/github/forks/PrabhakaranVijay/rag-huggingface-mlflow?color=7F00FF" />
 

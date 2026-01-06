@@ -141,23 +141,3 @@ Software Developer | ML Engineer
 ## ⭐ If You Like This Project
 
 Give it a ⭐ on GitHub and feel free to fork or improve it!
-
----
-
-### 🔥 Next (Optional Improvements)
-
-* Convert notebook logic into modular Python scripts
-* Add FastAPI for serving the RAG pipeline
-* Deploy with Docker
-* Add evaluation metrics for answer quality
-
----
-
-If you want, I can also:
-
-* Optimize this README for **LinkedIn**
-* Add **architecture diagrams**
-* Create a **resume-ready project description**
-* Convert notebook → **production-ready code**
-
-Just tell me 🚀
